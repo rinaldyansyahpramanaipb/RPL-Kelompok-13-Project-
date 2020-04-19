@@ -1,67 +1,72 @@
 body{
-    background-color: lightskyblue;
+    background-color: #E8E8E8;
 }
 
 #main{
-    width: 300px;
+    width: 562.29px;
+    height: 342.29px;
     margin: 0 auto;
-    padding-top: 40px;
+    padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
-    background-color: rgba(255,255,255,0.2);
-    border-radius: 6px;
-    -moz-border-radius: 6px;
-    -webkit-border-radius: 6px;
-    margin-top: 150px;
-}
-
-img{
-    border: 2px darkgrey solid;
-    height: 70px;
-    width: 70px;
-    border-radius: 50px;
-    margin-left: 110px;
-    position: absolute;
-    margin-top: -70px;
-    background-color: darkgrey;
+    border-width: 8px;
+    border-color: #707070; 
+    background-color: #FFFFFF;
+    margin-top: 100px;
 }
 
 h1{
-    font-family: verdana;
-    color: white;
+    font-family: Calibri;
+    color: #676767;
     text-align: center;
-    font-size: 20px;
-    margin-top: 20px;
-    padding: 10px;
+    font-size: 30px;
+    margin-top: 10px;
+
 }
 
 form input{
     margin: 5px;
     padding: 10px;
-    border: 2px gold solid;
-    border-radius: 17px;
-    width: 200px;
-    margin-left: 40px;
+    border-width: 1px;
+    border-color: #707070;
+    border-radius: 38px;
+    width: 498.74px;
+    height: 20px;
+    margin-left: 20px;
 }
 
 form button{
+    font-family: Calibri;
+    font-size: 20px;
     margin: 5px;
     padding: 5px;
-    background-color: dodgerblue;
-    border: 1px black solid;
-    border-radius: 12px;
-    width: 100px;
-    height: 40px;
+    background-color: #49C2CB;
+    border-radius: 38px;
+    width: 520px;
+    height: 45.15px;
     color: white;
-    margin-left: 100px;
+    margin-left: 19px;
     cursor: pointer;
 }
 
 a{
     text-decoration: none;
-    color: red;
-    text-align: center;
-    margin-left: 0px;
-    font-family: bell MT;
+    color: #49C2CB;
+    margin-left: 1px;
+    font-family: Arial;
+    font-size: 14px;
+    text-orientation: center;
+}
+
+img{
+    width: 165px;
+    height: 93px;
+    margin-top: 130px;
+    margin-left: 700px;
+}
+
+footer{
+    font-family: Calibri;
+
 }
