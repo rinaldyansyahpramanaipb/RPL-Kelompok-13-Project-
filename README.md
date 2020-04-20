@@ -1,2 +1,2 @@
 # RPL
-This repository created to help our RPL project
+This repository is created to help our RPL project
