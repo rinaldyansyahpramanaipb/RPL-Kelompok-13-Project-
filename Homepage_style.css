@@ -19,9 +19,17 @@ h1{
     font-size: 25px;
 }
 
+img#Logo{
+    width: 165px;
+    height: 93px;
+    opacity: 100%;
+    margin-top: -94px;
+    margin-left: 1350px;
+}
+
 #sidebar{
     width: 350px;
-    height: 900px;
+    height: 647px;
     margin-left: -10px;
     background-color: #FFFFFF;
 }
@@ -41,10 +49,10 @@ img{
 
 .kanan{
     text-align: center;
-    width: 1213px;
-    height: 900px;
+    width: 1235px;
+    height: 647px;
     background-color: #F2F2F2;
-    margin-top: -927px;
+    margin-top: -674px;
     margin-left: 340px;
     font-family: Calibri;
     color: #8E8E8E;
