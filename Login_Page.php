@@ -1,4 +1,3 @@
-<?php
 <!DOCTYPE html>
 <html>
     <head>
@@ -26,7 +25,7 @@
         </form><br>
 
         <center> <a href="">Lupa Password</a></center><br>
-        <center><a href="">Belum punya akun?</a></center><br>
+        <center><a href="Regist_Page.php">Belum punya akun?</a></center><br>
         </div>
     <img src="logoPedes.png">
 
@@ -35,4 +34,3 @@
         </body>
     </body>
 </html>
- ?>
