@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Homepage</title>
+        <title>Dashboard</title>
         <link rel="stylesheet" type="text/css" href="Homepage_style.css">
+        <link rel="icon" type="image/png" href="logoPedes.png"/>
     </head>
     <body>
         <div id="header">
