@@ -3,6 +3,7 @@
     <head>
         <title>Login PeDes</title>
         <link rel="stylesheet" type="text/css" href="Login_style.css">
+        <link rel="icon" type="image/png" href="logoPedes.png"/>
     </head>
     <body>
         <div id="main">
