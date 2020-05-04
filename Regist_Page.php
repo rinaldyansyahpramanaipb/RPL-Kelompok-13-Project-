@@ -13,7 +13,6 @@
             <input type="text" name="" placeholder="NIK"><br>
             <input type="text" name="" placeholder="Alamat"><br>
             <input type="password" name="" placeholder="Password Baru"><br>
-            <input type="password" name="" placeholder="Konfirmasi Password Baru"><br>
             <button onclick="" class="button">Daftar</button><br>
         </form><br>
         </div>
