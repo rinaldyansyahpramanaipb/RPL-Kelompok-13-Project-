@@ -3,6 +3,7 @@
     <head>
         <title>Register</title>
         <link rel="stylesheet" type="text/css" href="Regist_style.css">
+        <link rel="icon" type="image/png" href="logoPedes.png"/>
     </head>
     <body>
         <div id="main">
