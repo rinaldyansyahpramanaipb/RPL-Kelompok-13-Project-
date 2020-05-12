@@ -2,10 +2,12 @@
 <html>
     <head>
         <title><?php echo 'SELAMAT DATANG'?></title>
-        <link rel="stylesheet" type="text/css" href="style.css"> 
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="icon" type="image/png" href="logoPedes.png"/> 
     </head>
     <body>
         <header>
+        	<img id="logo" src="logoPedes.png">
             <div class="title">
             <h1><?='SELAMAT DATANG'?></h1>
         </div>
